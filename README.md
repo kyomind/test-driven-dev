@@ -1,2 +1,2 @@
-# test-driven-dev
-《測試驅動開發：使用 Python》練習
+# Test Driven Development with Python
+《測試驅動開發：使用 Python》程式碼練習
